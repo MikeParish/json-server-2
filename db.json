@@ -1,0 +1,28 @@
+ {
+ "videos": [
+      {
+        "id": 1,
+        "ytlink": "https://www.youtube.com/embed/WdBdly0D7nA",
+        "title": "Tascam Model 12 Multitrack Recording Pt. 1",
+        "description": "The first part of a two part series on using the Model 12 as a digital multitrack recorder. I record drum machine, bass, and guitar, as well as go over basic functions for recording and playback."
+      },
+      {
+        "id": 2,
+        "ytlink": "https://www.youtube.com/embed/CXc8Fo-Wv4g",
+        "title": "Tascam Model 12 Multitrack Recording Pt. 2",
+        "description": "The second part of a two part series on using the Model 12 as a digital multitrack recorder. I record vocals and a guitar solo, and create a final mix with the onboard effects."
+      },
+      {
+        "id": 3,
+        "ytlink": "https://www.youtube.com/embed/XW4MDwcM0yU",
+        "title": "Tascam Model 12 Headphones",
+        "description": "I've been utilizing the sub output with a headphone amp for headphones. I go over why this is the best solution for using headphones when multitracking."
+      },
+      {
+        "id": 4,
+        "ytlink": "https://www.youtube.com/embed/Af9J8i3rEaI",
+        "title": "Tascam Model 12 as a Home Studio Hub",
+        "description": "I've been surprised by how much I've been using the Model 12 outside of multitrack recording. It's become an important part of my home studio. I give an overview of the different ways I've been putting it to use."
+      }
+    ]
+}

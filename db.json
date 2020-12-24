@@ -1,5 +1,5 @@
  {
- "videos": [
+ "recvideos": [
       {
         "id": 1,
         "ytlink": "https://www.youtube.com/embed/WdBdly0D7nA",
@@ -17,12 +17,14 @@
         "ytlink": "https://www.youtube.com/embed/XW4MDwcM0yU",
         "title": "Tascam Model 12 Headphones",
         "description": "I've been utilizing the sub output with a headphone amp for headphones. I go over why this is the best solution for using headphones when multitracking."
-      },
+      }
+    ],
+  "revvideos": [
       {
-        "id": 4,
+        "id": 1,
         "ytlink": "https://www.youtube.com/embed/Af9J8i3rEaI",
         "title": "Tascam Model 12 as a Home Studio Hub",
         "description": "I've been surprised by how much I've been using the Model 12 outside of multitrack recording. It's become an important part of my home studio. I give an overview of the different ways I've been putting it to use."
       }
-    ]
+   ]
 }
